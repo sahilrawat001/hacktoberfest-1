@@ -1,0 +1,27 @@
+# Srijan Singh
+
+### Location
+
+India, New Delhi
+
+### Academics
+
+Indraprastha Engineering College, Ghaziabad
+
+### Interests
+
+- Artificial Intelligence and Machine Learning
+- Gaming
+- Music
+
+### Development
+
+- Machine Learning Developer
+
+### Projects
+
+- [Jarvis-python](https://github.com/srijansingh2003/Jarvis-python)
+
+### Profile Link
+
+[Srijan Singh](https://github.com/srijansingh2003)
